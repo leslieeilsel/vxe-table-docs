@@ -49,5 +49,8 @@
     "gulp-zip": "5.1.0",
     "uglify-js": "3.17.4",
     "xe-utils": "^3.9.0"
+  },
+  "dependencies": {
+    "pnpm": "^10.30.3"
   }
 }
